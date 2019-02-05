@@ -1,6 +1,7 @@
 package ru.ttv.springproject.photo;
 
 import org.springframework.stereotype.Component;
+import ru.ttv.springproject.annotation.UnproducableCameraRoll;
 
 /**
  * @author Timofey Teplykh
