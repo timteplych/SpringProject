@@ -5,7 +5,9 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import ru.ttv.springproject.photo.Camera;
 import ru.ttv.springproject.shoot.Gun;
 
-
+/**
+ * @Author Teplykh
+ */
 public class App 
 {
     public static void main( String[] args )
